@@ -1,53 +1,55 @@
 # Hi, I'm Getabil Mengistu 👋
 
-### Software Engineer | Backend Systems | Full-Stack Development | AI Engineering
+### Senior Full-Stack Engineer | Backend Systems | AI Engineering | Cloud Infrastructure
 
 📍 Addis Ababa, Ethiopia 🇪🇹
 
-I build scalable software systems, enterprise applications, and AI-powered solutions. My experience spans backend engineering, full-stack development, database architecture, cloud infrastructure, and practical AI integrations.
+I'm a software engineer with 4+ years of experience building production-ready software, enterprise applications, and AI-powered solutions.
 
-I enjoy solving complex engineering problems, designing reliable APIs, and taking applications from architecture to production.
+I specialize in backend engineering, full-stack development, system architecture, and AI integration. I enjoy solving complex engineering problems — from database design and API development to distributed systems, cloud infrastructure, and production deployment.
 
-Currently working on insurance technology, backend systems, and modern software architecture.
+Currently building enterprise insurance technology at **Tilla Health**.
 
 ---
 
-## 🚀 What I Build
+## 🚀 What I Do
 
 - **Backend Engineering:** Django, ASP.NET Core, Go, REST APIs, Microservices.
 - **Full-Stack Development:** Next.js, React, TypeScript.
-- **AI Engineering:** Agentic AI, RAG, LLM integrations, Speech AI.
-- **Database Engineering:** PostgreSQL, SQL Server, Database Design.
-- **Cloud & DevOps:** Docker, Kubernetes, Azure, Linux, Nginx, CI/CD.
-- **System Architecture:** Multi-tenant SaaS, Distributed Systems, Enterprise Applications.
+- **AI Engineering:** Agentic AI, RAG, LLMs, Speech AI, AI integrations.
+- **Database Engineering:** PostgreSQL, SQL Server, Database Architecture.
+- **Cloud & DevOps:** Azure, Docker, Kubernetes, Linux, Nginx, CI/CD.
+- **System Architecture:** Multi-Tenant SaaS, Distributed Systems, Enterprise Applications.
 
 ---
 
 ## 🛠️ Technology Stack
 
-**Languages**
+**Languages & Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Backend & Frontend**
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Frontend**
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 **AI & Machine Learning**
 
 ![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-512BD4?style=flat-square)
 ![Whisper](https://img.shields.io/badge/Whisper-Speech_AI-333333?style=flat-square)
 
-**Database, Cloud & DevOps**
+**Database & Infrastructure**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
@@ -61,91 +63,102 @@ Currently working on insurance technology, backend systems, and modern software 
 
 ## 💼 Professional Experience
 
-### Full-Stack & AI Engineer — Kagool
-**April 2025 – October 2026**
-
-Worked on enterprise software and AI engineering initiatives, including:
-
-- **Data Migrations Platform:** Contributed to enterprise data migration solutions, backend APIs, and data processing workflows.
-- **Agentic AI Bot:** Worked on AI agent-based solutions involving LLM integrations and intelligent workflows.
-- **Speech AI:** Developed speech-to-text and text-to-speech integrations using Azure Speech and Whisper.
-- **Enterprise RAG:** Worked on multimodal retrieval-augmented generation solutions using Azure AI Search and LLM technologies.
-- **Full-Stack Engineering:** Developed backend services and web application features using ASP.NET Core, Next.js, React, and SQL Server.
-
-### Software Engineer — Tilla Health
+### Senior Full-Stack Engineer | Tilla Health
 **October 2026 – Present**
 
-Working on insurance technology and enterprise backend systems.
+Working on enterprise insurance technology and backend systems.
 
-- Contributing to insurance domain services and backend architecture.
-- Working with Go, Django, and modern API development.
-- Exploring modular architecture, service integration, and database design.
-- Contributing to scalable enterprise application development.
+- Contributing to insurance platform architecture and backend development.
+- Working across Go, Django, and modern full-stack technologies.
+- Developing and integrating domain-oriented services and APIs.
+- Contributing to scalable application architecture and database design.
 
-### Technical Assistant & Freelance Developer — Wollo University
+### Full-Stack & AI Engineer | Kagool
+**April 2025 – October 2026**
+
+Contributed to enterprise software engineering and AI-powered solutions.
+
+- **Data Migrations Platform:** Worked on enterprise data migration capabilities and platform development.
+- **Agentic AI Bot:** Contributed to AI agent-based solutions and intelligent workflows.
+- **RAG & Enterprise AI:** Built retrieval-augmented generation pipelines using Semantic Kernel, Azure AI, and LLM integrations.
+- **Speech AI:** Integrated OpenAI Whisper and Azure Speech SDK for speech-to-text and text-to-speech workflows.
+- **Full-Stack Development:** Designed REST APIs with ASP.NET Core and developed Next.js frontends.
+- **Cloud & DevOps:** Containerized services using Docker, configured Nginx, and worked with CI/CD and Kubernetes environments.
+
+### Technical Assistant & Freelance Developer | Wollo University
 **2022 – March 2025**
 
-- Supported computer engineering laboratories and practical software development activities.
-- Developed web and mobile applications through freelance projects.
-- Worked on database design, backend development, and application deployment.
+- Architected Ma'ed, a multi-tenant SaaS platform with subscription management, tenant isolation, and analytics.
+- Delivered production web and mobile applications using Django, Next.js, and React Native.
+- Designed REST APIs, PostgreSQL schemas, and Linux-based deployments.
+- Supported students in programming, data structures, and software engineering.
+
+### ICT Technical Support Officer | Government Office
+**March 2021 – February 2022**
+
+- Supported office IT infrastructure, networks, hardware, and software systems.
+- Troubleshot technical issues and maintained user accounts and LAN infrastructure.
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 1. Ma'ed — Multi-Tenant SaaS Platform
-[View Repository](https://github.com/Getabil2/maed-saas-showcase)
 
-A SaaS platform designed around independent tenant environments and subscription-based services.
+[GitHub Repository](https://github.com/Getabil2/maed-saas-showcase)
 
-**Highlights:**
-- Multi-tenant architecture and tenant isolation.
+Designed and developed a multi-tenant SaaS platform from scratch.
+
+**Key Features**
+- Tenant isolation and independent tenant environments.
 - Subscription and plan management.
 - Tenant-specific dashboards.
 - Referral marketing and analytics.
-- Localization for the Ethiopian market.
+- Ethiopian-market localization.
 
-**Stack:** Django, Next.js, PostgreSQL.
+**Technologies:** Django, Next.js, PostgreSQL.
 
 ### 2. Wollo Ride — Ride-Hailing Platform
-[Visit Platform](https://wollorideservice.com)
 
-A ride-hailing platform with backend services, mobile applications, and administrative workflows.
+[Live Platform](https://wollorideservice.com)
 
-**Highlights:**
-- Backend API development.
-- Mobile application integration.
+A production ride-hailing platform connecting backend services, mobile applications, and administrative workflows.
+
+**Key Features**
+- RESTful backend APIs.
 - Real-time operational workflows.
+- Mobile application integration.
 - Administrative dashboard.
-- Production deployment and infrastructure management.
+- Self-hosted production infrastructure.
 
-**Stack:** Django, React Native, Next.js, PostgreSQL, Redis, Docker.
+**Technologies:** Django, Next.js, React Native, PostgreSQL, Redis, Docker.
 
-### 3. WPDAA — Government Digital Platform
+### 3. WPDAA — Government Enterprise Platform
 
-A government-focused application delivered from requirements through production deployment.
+[Live Platform](https://wpdaa2.gov.et)
 
-**Highlights:**
+A public-sector digital platform delivered from requirements gathering to production deployment.
+
+**Key Features**
 - Backend and frontend integration.
 - Role-based access and administrative workflows.
-- Containerized deployment.
-- Nginx reverse proxy and SSL configuration.
-- On-premises infrastructure management.
+- Dockerized infrastructure.
+- Nginx reverse proxy and SSL.
+- On-premises deployment.
 
-**Stack:** Django, Next.js, PostgreSQL, Docker, Nginx, Linux.
+**Technologies:** Django, Next.js, PostgreSQL, Docker, Nginx, Linux.
 
 ### 4. AI Speech Platform
 
-Enterprise-oriented speech processing applications integrating speech recognition and speech generation.
+Enterprise speech processing integrations for web and desktop applications.
 
-**Highlights:**
-- Speech-to-text processing.
-- Text-to-speech integration.
-- Translation workflows.
-- Backend API development.
-- Integration with enterprise web and desktop applications.
+**Key Features**
+- Speech-to-text pipelines.
+- Text-to-speech workflows.
+- Translation integration.
+- Stateless REST API architecture.
 
-**Stack:** ASP.NET Core, Python, Azure Speech, Whisper.
+**Technologies:** ASP.NET Core, Azure Speech SDK, OpenAI Whisper.
 
 ---
 
@@ -153,10 +166,10 @@ Enterprise-oriented speech processing applications integrating speech recognitio
 
 - Distributed Systems & Microservices
 - Enterprise Software Architecture
-- Agentic AI & Autonomous Workflows
+- Agentic AI & AI Workflows
 - Retrieval-Augmented Generation (RAG)
 - Multi-Tenant SaaS Architecture
-- Database Engineering & Optimization
+- Database Design & Optimization
 - Cloud-Native Applications
 - Infrastructure Automation
 
@@ -164,25 +177,21 @@ Enterprise-oriented speech processing applications integrating speech recognitio
 
 ## 🎓 Education & Certifications
 
-- **BSc in Electrical & Computer Engineering** — Aksum University.
-- **Microsoft Certified: Azure Data Scientist Associate (DP-100).**
+**BSc in Electrical & Computer Engineering**  
+Aksum University | February 2021
+
+**Microsoft Certified: Azure Data Scientist Associate (DP-100)**
 
 ---
 
-## 📊 GitHub Activity
+## 📫 Connect With Me
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Getabil2)](https://github.com/Getabil2)
+I'm interested in building impactful software, solving challenging engineering problems, and collaborating on backend, cloud, and AI engineering projects.
 
----
-
-## 📫 Let's Connect
-
-I'm interested in collaborating on backend engineering, enterprise applications, AI engineering, and scalable software systems.
-
-- **GitHub:** [@Getabil2](https://github.com/Getabil2)
-- **LinkedIn:** [Getabil Mengistu](https://linkedin.com/in/getabilmengistu)
-- **Email:** getabilmengistu888@gmail.com
+- GitHub: [@Getabil2](https://github.com/Getabil2)
+- LinkedIn: [Getabil Mengistu](https://linkedin.com/in/getabilmengistu)
+- Email: getabilmengistu888@gmail.com
 
 ---
 
-*Building practical software solutions through engineering, continuous learning, and thoughtful architecture.*
+*Building scalable systems. Engineering practical AI. Delivering software that solves real problems.*
